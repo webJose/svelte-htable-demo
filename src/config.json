@@ -1,0 +1,11 @@
+{
+    "sourceCode": {
+        "host": "github.com",
+        "scheme": "https",
+        "rootPath": "/webJose/svelte-htable-demo/tree/main",
+        "demos": {
+            "rootPath": "/src/lib/demos",
+            "demo": "/{fileName}"
+        }
+    }
+}
