@@ -197,6 +197,10 @@
 		font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 	}
 
+	:global(button) {
+		cursor: pointer;
+	}
+
 	article {
 		display: flex;
 		flex-flow: column;
@@ -247,7 +251,6 @@
 		padding: 0.5em 1.5em;
 		background-color: orange;
 		border: 0.15em solid orangered;
-		cursor: pointer;
 	}
 
 	div.warning input[type="number"] {

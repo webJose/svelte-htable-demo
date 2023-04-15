@@ -101,7 +101,7 @@
         padding-bottom: 0.2em;
     }
 
-    :global(table.data9 > caption > span >span.cpt-r) {
+    :global(table.data9.sub > caption > span >span.cpt-r) {
         padding: 0.2em 0.5em;
         border: 0.1em dashed darkblue;
         border-radius: 0.4em;
